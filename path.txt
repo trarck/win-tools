@@ -1,0 +1,5 @@
+.\
+android
+android\adb
+gyp
+jad
