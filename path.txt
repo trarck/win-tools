@@ -3,3 +3,5 @@ android
 android\adb
 gyp
 jad
+winflexbison
+svn
