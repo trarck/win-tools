@@ -1,0 +1,1 @@
+java -jar "%~dp0..\apksigner.jar" sign --ks "%~dp0debug.keystore" --ks-key-alias debug --ks-pass pass:android --key-pass pass:android --v1-signing-enabled true --v2-signing-enabled true %1
