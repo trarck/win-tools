@@ -1,0 +1,1 @@
+robocopy %1 %2 /mir /mt:32 /nfl /ndl /np /ns /nc
